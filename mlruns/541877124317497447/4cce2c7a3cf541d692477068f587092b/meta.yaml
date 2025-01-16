@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541877124317497447/4cce2c7a3cf541d692477068f587092b/artifacts
+end_time: 1734265920707
+entry_point_name: ''
+experiment_id: '541877124317497447'
+lifecycle_stage: active
+run_id: 4cce2c7a3cf541d692477068f587092b
+run_name: learned-stork-484
+run_uuid: 4cce2c7a3cf541d692477068f587092b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265920624
+status: 3
+tags: []
+user_id: quinito

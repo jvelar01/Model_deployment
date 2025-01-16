@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541877124317497447/747b213fe7f14fedb09ee910f1d043bc/artifacts
+end_time: 1734265851431
+entry_point_name: ''
+experiment_id: '541877124317497447'
+lifecycle_stage: active
+run_id: 747b213fe7f14fedb09ee910f1d043bc
+run_name: gaudy-shrew-186
+run_uuid: 747b213fe7f14fedb09ee910f1d043bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265851331
+status: 3
+tags: []
+user_id: quinito

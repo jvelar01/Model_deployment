@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541877124317497447/128f49e2d52b47a09bb932e7bd7c30c5/artifacts
+end_time: 1734265920561
+entry_point_name: ''
+experiment_id: '541877124317497447'
+lifecycle_stage: active
+run_id: 128f49e2d52b47a09bb932e7bd7c30c5
+run_name: nosy-robin-419
+run_uuid: 128f49e2d52b47a09bb932e7bd7c30c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265910235
+status: 3
+tags: []
+user_id: quinito

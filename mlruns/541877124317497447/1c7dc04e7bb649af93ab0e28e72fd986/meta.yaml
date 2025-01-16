@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541877124317497447/1c7dc04e7bb649af93ab0e28e72fd986/artifacts
+end_time: 1734265806068
+entry_point_name: ''
+experiment_id: '541877124317497447'
+lifecycle_stage: active
+run_id: 1c7dc04e7bb649af93ab0e28e72fd986
+run_name: wistful-hen-362
+run_uuid: 1c7dc04e7bb649af93ab0e28e72fd986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265790785
+status: 3
+tags: []
+user_id: quinito

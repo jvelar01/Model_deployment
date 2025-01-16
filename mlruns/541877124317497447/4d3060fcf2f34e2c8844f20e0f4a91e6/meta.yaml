@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541877124317497447/4d3060fcf2f34e2c8844f20e0f4a91e6/artifacts
+end_time: 1734266664895
+entry_point_name: ''
+experiment_id: '541877124317497447'
+lifecycle_stage: active
+run_id: 4d3060fcf2f34e2c8844f20e0f4a91e6
+run_name: bald-wren-851
+run_uuid: 4d3060fcf2f34e2c8844f20e0f4a91e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734266653398
+status: 3
+tags: []
+user_id: quinito

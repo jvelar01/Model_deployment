@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541877124317497447/05605be8bdb449b09f5c0b83582ff15c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '541877124317497447'
+lifecycle_stage: active
+run_id: 05605be8bdb449b09f5c0b83582ff15c
+run_name: luminous-wolf-296
+run_uuid: 05605be8bdb449b09f5c0b83582ff15c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265756911
+status: 1
+tags: []
+user_id: quinito

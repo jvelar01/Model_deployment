@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734268790741
+current_stage: None
+description: ''
+last_updated_timestamp: 1734268790741
+name: assignmentFTry
+run_id: 63dae80684e142b3a93ef7c07b355474
+run_link: ''
+source: mlflow-artifacts:/541877124317497447/63dae80684e142b3a93ef7c07b355474/artifacts/assignmentFTry
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/541877124317497447/63dae80684e142b3a93ef7c07b355474/artifacts/assignmentFTry
+user_id: null
+version: 13

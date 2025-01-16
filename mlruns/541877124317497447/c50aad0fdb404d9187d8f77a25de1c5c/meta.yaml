@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541877124317497447/c50aad0fdb404d9187d8f77a25de1c5c/artifacts
+end_time: 1734283839601
+entry_point_name: ''
+experiment_id: '541877124317497447'
+lifecycle_stage: active
+run_id: c50aad0fdb404d9187d8f77a25de1c5c
+run_name: rebellious-cat-707
+run_uuid: c50aad0fdb404d9187d8f77a25de1c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734283822446
+status: 3
+tags: []
+user_id: quinito

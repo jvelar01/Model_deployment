@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/688012667682699995/17c5b17fb47d44d2b9a658e4b5fff084/artifacts
+end_time: 1734285603527
+entry_point_name: ''
+experiment_id: '688012667682699995'
+lifecycle_stage: active
+run_id: 17c5b17fb47d44d2b9a658e4b5fff084
+run_name: rumbling-carp-601
+run_uuid: 17c5b17fb47d44d2b9a658e4b5fff084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734285585536
+status: 3
+tags: []
+user_id: quinito

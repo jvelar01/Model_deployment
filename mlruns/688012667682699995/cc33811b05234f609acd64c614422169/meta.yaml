@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/688012667682699995/cc33811b05234f609acd64c614422169/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '688012667682699995'
+lifecycle_stage: active
+run_id: cc33811b05234f609acd64c614422169
+run_name: nosy-fish-216
+run_uuid: cc33811b05234f609acd64c614422169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734285182270
+status: 1
+tags: []
+user_id: quinito
